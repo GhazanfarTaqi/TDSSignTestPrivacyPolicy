@@ -118,3 +118,4 @@ This app complies with:
 ---
 
 **By using TDS Quiz App, you agree to this Privacy Policy.**
+
